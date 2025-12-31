@@ -1,4 +1,4 @@
-# 🛡️ PhishGuard: Multimodal AI Phishing Defense
+# 🛡️ ScamRay: Multimodal AI Phishing Defense
 
 > **Project for [Insert Hackathon Name]**
 > *Protecting users from visual spoofing and zero-day phishing attacks using Google Gemini 2.5.*
@@ -8,7 +8,7 @@ Traditional antiviruses rely on **blacklist databases**—they only catch known 
 Hackers now use **"Quishing" (QR Phishing)** and **Visual Spoofing** (fake Netflix/Microsoft login images) to bypass text-based scanners. 
 
 ## 💡 The Solution
-**PhishGuard** is an **Active Defense System**. It doesn't just warn you; it physically blocks interaction with malicious sites using a protected **Shadow DOM** overlay. It uses **Multimodal AI (Vision + Text)** to "see" the website like a human, detecting fraud even if the text is hidden.
+**ScamRay** is an **Active Defense System**. It doesn't just warn you; it physically blocks interaction with malicious sites using a protected **Shadow DOM** overlay. It uses **Multimodal AI (Vision + Text)** to "see" the website like a human, detecting fraud even if the text is hidden.
 
 ---
 
@@ -62,7 +62,7 @@ Hackers now use **"Quishing" (QR Phishing)** and **Visual Spoofing** (fake Netfl
 
 1.  **Clone the Repo**
     ```bash
-    git clone [https://github.com/AvinashTripathi1234/PhishGuard.git](https://github.com/AvinashTripathi1234/PhishGuard.git)
+    git clone [https://github.com/AvinashTripathi1234/ScamRay.git](https://github.com/AvinashTripathi1234/ScamRay.git)
     ```
 
 2.  **Setup Backend**
@@ -79,3 +79,4 @@ Hackers now use **"Quishing" (QR Phishing)** and **Visual Spoofing** (fake Netfl
 
 ---
 *Built with ❤️ for a Safer Internet.*
+
