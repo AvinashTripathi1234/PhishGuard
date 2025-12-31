@@ -1,0 +1,12 @@
+# Secrets (NEVER UPLOAD THESE)
+.env
+firebase_key.json
+
+# Python Junk
+__pycache__/
+*.pyc
+venv/
+.pytest_cache/
+
+# Mac Junk
+.DS_Store
